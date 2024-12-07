@@ -9,7 +9,7 @@
 
 # Isaac Ham
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_A Bioinformatics Portfolio._
 
 </header>
 
